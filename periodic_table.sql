@@ -97,6 +97,7 @@ INSERT INTO public.elements VALUES (7, 'N', 'Nitrogen');
 INSERT INTO public.elements VALUES (8, 'O', 'Oxygen');
 INSERT INTO public.elements VALUES (9, 'F', 'Fluorine');
 INSERT INTO public.elements VALUES (10, 'Ne', 'Neon');
+INSERT INTO public.elements VALUES (1000, 'mT', 'moTanium');
 
 
 --
@@ -199,5 +200,4 @@ ALTER TABLE ONLY public.properties
 --
 -- PostgreSQL database dump complete
 --
-
 
